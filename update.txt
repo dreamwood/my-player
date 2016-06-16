@@ -1,0 +1,5 @@
+{
+	"url":"https://raw.githubusercontent.com/dreamwood/my-player/master/app-release.apk",
+	"versionCode":106,
+	"updateMessage":"更新版本至1.0.6"
+}
