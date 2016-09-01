@@ -1,6 +1,5 @@
 {
 	"url":"https://raw.githubusercontent.com/dreamwood/my-player/master/app-release.apk",
-	"versionCode":10101,
-	"updateMessage":"更新版本1.0.11，UI重新调整，支持从服务器下载播放
-	更新播放器支持a6vr格式"
+	"versionCode":10102,
+	"updateMessage":"更新版本1.0.12，UI重新调整，支持语音动态设置，修复BUG"
 }
